@@ -1,4 +1,4 @@
-# UCR_NOAA_2020
+# UCR-NOAA 2020 Workshop on Satellite Data and Products
 
 Documents utilized during the NOAA 2020 Workshop at the University of Costa Rica
 
